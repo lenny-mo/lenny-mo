@@ -13,8 +13,6 @@
 -   :seedling: Taking courses & doing assignments at XJTLU
 -   :seedling: Taking courses & doing assignments at XJTLU
 -   :man_scientist: [INFJ](https://www.16personalities.com/infj-personality) personality
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
 ---
 
 
