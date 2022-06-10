@@ -11,7 +11,7 @@
 -   :hammer_and_pick: Java / C++ / Python / TypeScript
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :seedling: Bachelor of Computer Science and Technology, BFU
--   :seedling: Taking courses & doing assignments at XJTLU
+-   :seedling: B.Eng in Computer Science and Technology(Innovative Experimental Class) from BFU
 -   :man_scientist: [INFJ](https://www.16personalities.com/infj-personality) personality
 ---
 
