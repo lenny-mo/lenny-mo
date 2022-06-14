@@ -93,4 +93,4 @@
 
 <h3>Courses I've learned</h3>
 
--   MIT 6.s081 [repository](https://code.visualstudio.com/) | [I writed a paper](https://code.visualstudio.com/)
+-   MIT 6.s081 [Repository](https://code.visualstudio.com/) | [I writed a paper](https://code.visualstudio.com/)
