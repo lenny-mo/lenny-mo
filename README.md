@@ -26,7 +26,7 @@
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white" />
   <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=plastic&logo=elasticsearch&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=plastic&logo=openai&logoColor=white" />
-  <img alt="Apache Hadoop" src="https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=white" />
+  <img alt="Apache Hadoop" src="https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?style=plastic&logo=apache-hadoop&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
