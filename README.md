@@ -93,4 +93,4 @@
 
 <h3>Courses I've learned</h3>
 
--   MIT 6.s081 [repository](https://code.visualstudio.com/) |   <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
+-   MIT 6.s081 [repository](https://code.visualstudio.com/) | [I writed a paper](https://code.visualstudio.com/)
