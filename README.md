@@ -77,6 +77,19 @@
 
 
 
+<h3>Courses I've learned</h3>
+
+-   MIT 6.s081 [Course Website](https://pdos.csail.mit.edu/6.S081/2021/overview.html)｜ [Repository](https://code.visualstudio.com/) | [I writed a paper](https://code.visualstudio.com/)
+-   MLC(机器学习编译器 lecturer:陈天奇) [Course Website](https://mlc.ai/summer22-zh/) | [Repository](https://code.visualstudio.com/) | [I writed a paper](https://code.visualstudio.com/)
+
+
+
+
+
+
+
+
+
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
@@ -86,12 +99,3 @@
   <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
 
 </ul>
-
-
-
-
-
-<h3>Courses I've learned</h3>
-
--   MIT 6.s081 [Course Website](https://pdos.csail.mit.edu/6.S081/2021/overview.html)｜ [Repository](https://code.visualstudio.com/) | [I writed a paper](https://code.visualstudio.com/)
--   MLC(机器学习编译器 lecturer:陈天奇) [Course Website](https://mlc.ai/summer22-zh/) | [Repository](https://code.visualstudio.com/) | [I writed a paper](https://code.visualstudio.com/)
