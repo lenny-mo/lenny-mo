@@ -66,9 +66,9 @@
 
 <h3>Courses I've learned and am learning</h3>
 
--   ~~MIT 6.s081~~ [Course Website](https://pdos.csail.mit.edu/6.S081/2021/overview.html)｜ [Repository](https://code.visualstudio.com/) | [I writed a paper](https://code.visualstudio.com/)
--   MLC(机器学习编译器 lecturer:陈天奇) [Course Website](https://mlc.ai/summer22-zh/) | [Repository](https://code.visualstudio.com/) | [I writed a paper](https://code.visualstudio.com/)
--   MIT 6.NULL [Course Website](https://pdos.csail.mit.edu/6.S081/2021/overview.html)｜ [Repository](https://code.visualstudio.com/) | [I writed a paper](https://code.visualstudio.com/)
+-   ~~MIT 6.s081~~ [Course Website](https://pdos.csail.mit.edu/6.S081/2021/overview.html)｜ [I writed a paper](https://code.visualstudio.com/)
+-   MLC(机器学习编译器 lecturer:陈天奇) [Course Website](https://mlc.ai/summer22-zh/) | [I writed a paper](https://code.visualstudio.com/)
+-   MIT 6.NULL [Course Website](https://pdos.csail.mit.edu/6.S081/2021/overview.html) | [I writed a paper](https://code.visualstudio.com/)
 
 
 
