@@ -69,7 +69,7 @@
 
 -   ~~MIT 6.s081~~ [Course Website](https://pdos.csail.mit.edu/6.S081/2021/overview.html)｜ [I writed a paper](https://code.visualstudio.com/)
 -   大规模机器学习与交叉应用(organizer:[THUNLP](https://nlp.csai.tsinghua.edu.cn/))[Course repo](https://github.com/thunlp/BMCourse) | [my repo](https://code.visualstudio.com/)
--   MLC(机器学习编译器 lecturer:陈天奇) [Course Website](https://mlc.ai/summer22-zh/) | [I writed a paper](https://code.visualstudio.com/)
+-   CMU MLC(机器学习编译器 lecturer:陈天奇) [Course Website](https://mlc.ai/summer22-zh/) | [I writed a paper](https://code.visualstudio.com/)
 -   MIT 6.NULL [Course Website](https://pdos.csail.mit.edu/6.S081/2021/overview.html) | [I writed a paper](https://code.visualstudio.com/)
 
 
