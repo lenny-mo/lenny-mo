@@ -68,7 +68,7 @@
 <h3>Courses I've learned and am learning</h3>
 
 -   ~~MIT 6.s081~~ [Course Website](https://pdos.csail.mit.edu/6.S081/2021/overview.html)｜ [I writed a paper](https://code.visualstudio.com/)
--   大模型技术与交叉应用(organizer:THUNLP)[Course repo](https://github.com/thunlp/BMCourse)
+-   大规模与交叉应用(organizer:THUNLP)[Course repo](https://github.com/thunlp/BMCourse)
 -   MLC(机器学习编译器 lecturer:陈天奇) [Course Website](https://mlc.ai/summer22-zh/) | [I writed a paper](https://code.visualstudio.com/)
 -   MIT 6.NULL [Course Website](https://pdos.csail.mit.edu/6.S081/2021/overview.html) | [I writed a paper](https://code.visualstudio.com/)
 
