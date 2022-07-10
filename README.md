@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!   你将不再是道具，而是成为人如其名的人</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!   </h1>
 
 
 <p>Welcome to my page! </br> I'm 莫林立, you can call me Lenny, a fullstack developer, currently living in <b>Suzhou, Jiangsu, China</b>. </p>
