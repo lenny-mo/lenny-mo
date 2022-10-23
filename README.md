@@ -35,11 +35,11 @@
 
 
 
-<h3>Open source projects</h3>
+<h3>Open Source Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>🎁 Projects I've contributed</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
