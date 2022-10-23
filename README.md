@@ -83,6 +83,6 @@
 <h3>My latest posts</h3>
 <ul>
 
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b> tiDB+Blockchains+Dashboard订阅，商业价值以及技术 </b></a><br/><i>It’s more than just refreshing your resume</i></li>
+  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b> tiDB+Blockchains+Dashboard订阅+，商业价值以及技术 </b></a><br/><i>It’s more than just refreshing your resume</i></li>
 
 </ul>
