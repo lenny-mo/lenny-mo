@@ -53,7 +53,7 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/yuliang119110/cool?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/yuliang119110/cool?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/yuliang119110/cool?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yuliang119110/cool?style=flat-square&labelColor=343b41"/></td>
     </tr>
 
 
