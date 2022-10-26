@@ -11,8 +11,8 @@
 -   :hammer_and_pick: Java / C++ / Solidify
 -   :pencil2: [Manjaro](https://manjaro.org/) / [i3wm](https://i3wm.org/) / [VSCode](https://code.visualstudio.com/) 
 -   :man_scientist: [INFJ](https://www.16personalities.com/infj-personality) personality
--   :seedling: Master in Pattern Recognition from XJTLU
--   :seedling: B.Eng in Computer Science(Innovative Experimental Class) from BJFU
+-   :seedling: Master in Pattern Recognition from XJTLU, 2024
+-   :seedling: B.Eng in Computer Science(Innovative Experimental Class) from BJFU, 2019
 
 ---
 
