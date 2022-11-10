@@ -8,6 +8,8 @@
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=lenny-mo&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=lenny-mo&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
+
+
 -   :hammer_and_pick: Java / C++ / Solidity
 -   :pencil2: [Manjaro](https://manjaro.org/) / [i3wm](https://i3wm.org/) / [VSCode](https://code.visualstudio.com/) 
 -   :man_scientist: [INFJ](https://www.16personalities.com/infj-personality) personality
