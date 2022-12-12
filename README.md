@@ -50,10 +50,9 @@
 <h3>Courses I've learned and am learning</h3>
 
 -   ~~MIT 6.s081~~ [Course Website](https://pdos.csail.mit.edu/6.S081/2021/overview.html)｜ [Course notes](https://code.visualstudio.com/)
--   ~~MIT 6.NULL~~ [Course Website](https://pdos.csail.mit.edu/6.S081/2021/overview.html) | 
--   BuidlCamp(HongKong polyU, related to blockchain) [Course Website](https://web3edu.xyz/) | 
+-   ~~MIT 6.NULL~~ [Course Website](https://pdos.csail.mit.edu/6.S081/2021/overview.html) |  
 -   MIT15.s12 Blockchain and Finance [Course Website]
-
+-   Stanford CS251 Cryptocurrencies and Blockchain Technologies [Course Website]
 
 
 
