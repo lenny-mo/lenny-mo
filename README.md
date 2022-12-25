@@ -9,7 +9,7 @@
 
 
 
--   :hammer_and_pick: Golang / Solidity / Rust
+-   :hammer_and_pick: Golang / Solidity / JavaScript
 -   :pencil2: [Manjaro](https://manjaro.org/) / [i3wm](https://i3wm.org/) / [VSCode](https://code.visualstudio.com/) 
 -   :man_scientist: [INFJ](https://www.16personalities.com/infj-personality) personality
 -   :seedling: Master in Pattern Recognition from XJTLU, 2024
