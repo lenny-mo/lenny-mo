@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> the power of coding, will be your life!   </h1>
 
 
-<p>Welcome to my page! </br>you can call me <b>Lenny</b>, a fullstack developer, currently interesting in <b>Web3.0 and Blockchain</b>, living in <b>Suzhou, Jiangsu, China</b>. </p>
+<p>Welcome to my page! </br>you can call me <b>Lenny</b>, a fullstack developer, Currently interested in <b>blockchain and distributed storage</b>.
 
 
 
@@ -9,7 +9,7 @@
 
 
 
--   :hammer_and_pick: Golang / Solidity / JavaScript
+-   :hammer_and_pick: Golang / Solidity / Rust
 -   :pencil2: [Manjaro](https://manjaro.org/) / [i3wm](https://i3wm.org/) / [VSCode](https://code.visualstudio.com/) 
 -   :man_scientist: [INTJ](https://www.16personalities.com/intj-personality) personality
 -   :seedling: Master in Pattern Recognition from XJTLU, 2024
@@ -22,7 +22,8 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=elasticsearch&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-EE4C2C?style=plastic&logo=elasticsearch&logoColor=white" />
+
 	
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
