@@ -23,7 +23,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=plastic&logo=solidity&logoColor=white" />
-  <img alt="Polkadot" src="https://img.shields.io/badge/-Polkadot%20Boot-6DB33F?style=plastic&logo=polkadot&logoColor=white" />
+  <img alt="Polkadot" src="https://img.shields.io/badge/-Polkadot-E6007A?style=plastic&logo=polkadot&logoColor=white" />
 	
 	
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" /> 
