@@ -22,7 +22,7 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-EE4C2C?style=plastic&logo=elasticsearch&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=plastic&logo=elasticsearch&logoColor=white" />
 
 	
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" /> 
