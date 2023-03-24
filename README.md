@@ -27,7 +27,7 @@
 	
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=plastic&logo=solidity&logoColor=white" />
   <img alt="Polkadot" src="https://img.shields.io/badge/-Polkadot-E6007A?style=plastic&logo=polkadot&logoColor=white" />
-  <img alt="Substrate" src="https://img.shields.io/badge/-Parity%20Substrate-282828?style=plastic&logo=parity_substrate&logoColor=white" />
+  <img alt="Substrate" src="https://img.shields.io/badge/-Parity%20Substrate-282828?style=plastic&logo=parity-substrate&logoColor=white" />
 	
 	
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" /> 
