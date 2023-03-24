@@ -22,17 +22,23 @@
 
 <h3>Things I code with</h3>
 <p>
+  <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=plastic&logo=ethereum&logoColor=white" />
+	<img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-F7931A?style=plastic&logo=bitcoin&logoColor=white" />
+	
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=plastic&logo=solidity&logoColor=white" />
   <img alt="Polkadot" src="https://img.shields.io/badge/-Polkadot-E6007A?style=plastic&logo=polkadot&logoColor=white" />
 	
 	
+	
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" /> 
+	
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
 	
 
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=plastic&logo=google-cloud&logoColor=white" />
 	
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white" />
+	
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
 </p>
 
