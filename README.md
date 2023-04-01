@@ -61,9 +61,9 @@
 
 
 
-<h3>My latest posts</h3>
+<h3>My homepage and bogs</h3>
 <ul>
 
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b> AI+Blockchain智能合约，商业价值和技术 </b></a><br/><i>It’s more than just refreshing your resume</i></li>
+  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b> homeage </b></a><br/><i>It’s more than just refreshing your resume</i></li>
 
 </ul>
