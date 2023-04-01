@@ -54,13 +54,6 @@
 
 
 
-<h3>Courses I've learned and am learning</h3>
-
--   ~~MIT 6.s081~~ [Course Website]
--   ~~MIT 6.NULL~~ [Course Website] 
--   MIT6.824 Distributed Systems [Course Website]
--   Stanford CS251 Cryptocurrencies and Blockchain Technologies [Course Website]
-
 
 
 
