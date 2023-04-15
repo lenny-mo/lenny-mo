@@ -22,11 +22,11 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=plastic&logo=ethereum&logoColor=white" />
+  <img alt="Polkadot" src="https://img.shields.io/badge/-Polkadot-E6007A?style=plastic&logo=polkadot&logoColor=white" />
 	<img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-F7931A?style=plastic&logo=bitcoin&logoColor=white" />
 	
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=plastic&logo=solidity&logoColor=white" />
-  <img alt="Polkadot" src="https://img.shields.io/badge/-Polkadot-E6007A?style=plastic&logo=polkadot&logoColor=white" />
+
   <img alt="Substrate" src="https://img.shields.io/badge/-Parity%20Substrate-282828?style=plastic&logo=parity-substrate&logoColor=white" />
 	
 	
