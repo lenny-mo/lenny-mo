@@ -13,7 +13,7 @@
 -   :pencil2: [Manjaro](https://manjaro.org/) / [i3wm](https://i3wm.org/) / [VSCode](https://code.visualstudio.com/) 
 -   :man_scientist: [INTJ](https://www.16personalities.com/intj-personality) personality
 -   :seedling: Master in Pattern Recognition from XJTLU, 2024
--   :seedling: B.Eng in Computer Science(Innovative Experimental Class) from BJFU, 2019
+-   :seedling: B.Eng in Computer Science from BJFU, 2019
 
 ---
 
