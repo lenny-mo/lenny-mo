@@ -10,7 +10,7 @@
 
 
 -   :hammer_and_pick: Golang / Solidity / Rust
--   :pencil2: [Manjaro](https://manjaro.org/) / [i3wm](https://i3wm.org/) / [VSCode](https://code.visualstudio.com/) 
+-   :pencil2: [Ubuntu](https://ubuntu.com/) / [i3wm](https://i3wm.org/) / [VSCode](https://code.visualstudio.com/) 
 -   :man_scientist: [INTJ](https://www.16personalities.com/intj-personality) personality
 -   :seedling: Master in Pattern Recognition from XJTLU, 2024
 -   :seedling: B.Eng in Computer Science from BJFU, 2019
