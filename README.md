@@ -34,16 +34,14 @@
 	
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
 	
-
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=plastic&logo=google-cloud&logoColor=white" />
 	
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white" />
 	
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
 	
-
-	
   <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=plastic&logo=amazon-s3&logoColor=white" />
+	
+ <img alt="etcd" src="https://img.shields.io/badge/-etcd-419EDA?style=plastic&logo=etcd&logoColor=white" />
 	
 </p>
 
