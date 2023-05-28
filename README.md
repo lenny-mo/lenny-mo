@@ -12,8 +12,6 @@
 -   :hammer_and_pick: Golang / Solidity / Rust
 -   💻 [MacOS](https://www.apple.com/macbook-pro/) / [Ubuntu](https://ubuntu.com/) / [VSCode](https://code.visualstudio.com/) / [lazygit](https://github.com/jesseduffield/lazygit)
 -   :man_scientist: [INTJ](https://www.16personalities.com/intj-personality) personality
--   🏫: Master in Pattern Recognition from XJTLU, 2024
--   🏫: B.Eng in Computer Science from BJFU, 2019
 
 ---
 
