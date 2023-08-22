@@ -61,11 +61,11 @@
 
 
 
-<h3>My homepage and blogs</h3>
+<h3>My Blogs</h3>
 <ul>
 
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b> homepage </b></a><br/><i>It’s more than just refreshing your resume</i></li>
+  <li><a href=""><b> homepage </b></a><br/><i>中文笔记</i></li>
 	
-<li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b> blogs </b></a><br/><i>It’s more than just refreshing your resume</i></li>
+<li><a href="https://mirror.xyz/0x53bCC94ff2C097f09C80B648C812F722d947dA7f"><b> blogs </b></a><br/><i>It’s my english blog</i></li>
 
 </ul>
