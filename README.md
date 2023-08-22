@@ -64,8 +64,8 @@
 <h3>My Blogs</h3>
 <ul>
 
-  <li><a href=""><b> homepage </b></a><br/><i>中文笔记</i></li>
+  <li><a href=""><b> 中文笔记 </b></a><br/><i>记录读书笔记和技术文章</i></li>
 	
-<li><a href="https://mirror.xyz/0x53bCC94ff2C097f09C80B648C812F722d947dA7f"><b> blogs </b></a><br/><i>It’s my english blog</i></li>
+<li><a href="https://mirror.xyz/0x53bCC94ff2C097f09C80B648C812F722d947dA7f"><b> english stream </b></a><br/><i>It’s my english blog</i></li>
 
 </ul>
