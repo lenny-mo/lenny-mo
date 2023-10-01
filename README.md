@@ -66,8 +66,8 @@
 
 <li><a href="https://www.linkedin.com/in/lennymo/"><b> Linkedin </b></a></li>
 
-<li><a href="https://www.linkedin.com/in/lennymo/"><b> 中文笔记 </b></a><br/><i>记录读书笔记和技术文章</i></li>
+<li><a href="https://www.linkedin.com/in/lennymo/"><b> blogs(Chinese stream) </b></a></li>
 	
-<li><a href="https://mirror.xyz/0x53bCC94ff2C097f09C80B648C812F722d947dA7f"><b> english stream </b></a><br/><i>It’s my english blog</i></li>
+<li><a href="https://mirror.xyz/0x53bCC94ff2C097f09C80B648C812F722d947dA7f"><b> blogs(English stream) </b></a></li>
 
 </ul>
