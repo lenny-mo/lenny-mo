@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> the power of coding, will be your life!   </h1>
 
 
-<p>Welcome to my page! </br>you can call me <b>Lenny</b>, a blockchain engineer and developer, Currently interested in <b>distributed storage</b> and <b>blockchain</b>.
+<p>Welcome to my page! </br>you can call me <b>Lenny</b>, a blockchain engineer and developer, Currently interested in <b>distributed KV storage</b> and <b>blockchain</b>.
 
 
 
