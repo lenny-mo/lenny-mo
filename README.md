@@ -64,8 +64,6 @@
 <h3>My Links</h3>
 <ul>
 
-<li><a href="https://www.linkedin.com/in/lennymo/"><b> LinkedIn </b></a></li>
-
 <li><a href="https://lenny-mo.github.io/"><b> blogs(Chinese stream) </b></a></li>
 	
 <li><a href="https://mirror.xyz/0x53bCC94ff2C097f09C80B648C812F722d947dA7f"><b> blogs(English stream) </b></a></li>
