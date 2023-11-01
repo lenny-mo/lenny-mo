@@ -25,7 +25,7 @@
 	
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=plastic&logo=solidity&logoColor=white" />
 
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=plastic&logo=parity-substrate&logoColor=white" />
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
 	
 	
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" /> 
