@@ -9,7 +9,7 @@
 
 
 
--   :hammer_and_pick: Golang / Solidity / JavaScript / Rust
+-   :hammer_and_pick: Golang / Solidity / Rust
 -   💻 [MacOS](https://www.apple.com/macbook-pro/) / [Ubuntu](https://ubuntu.com/) / [VSCode](https://code.visualstudio.com/) / [Lunarvim](https://www.lunarvim.org/) / [lazygit](https://github.com/jesseduffield/lazygit)
 
 ---
