@@ -27,8 +27,6 @@
 
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
 	
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white" />
-
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" /> 
 	
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
