@@ -9,7 +9,7 @@
 
 
 -   :hammer_and_pick: Golang / JavaScript / Rust
--   💻 [MacOS](https://en.wikipedia.org/wiki/MacOS) / [Ubuntu](https://ubuntu.com/) / [VSCode](https://code.visualstudio.com/) / [Lazyvim]([https://github.com/neovim/neovim](https://www.lazyvim.org/)) / [lazygit](https://github.com/jesseduffield/lazygit)
+-   💻 [MacOS](https://en.wikipedia.org/wiki/MacOS) / [Ubuntu](https://ubuntu.com/) / [VSCode](https://code.visualstudio.com/) / [Lazyvim](https://www.lazyvim.org/) / [lazygit](https://github.com/jesseduffield/lazygit)
 
 ---
 
