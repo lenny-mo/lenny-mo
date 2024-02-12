@@ -14,7 +14,7 @@
 ---
 
 
-<h3> language I have been using </h3>
+<h3> languages I have been using </h3>
  <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=plastic&logo=go&logoColor=white" />
 	
