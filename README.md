@@ -35,7 +35,7 @@
 	
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
 	
-  <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-569A31?style=plastic&logo=apache-kafka&logoColor=white" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=plastic&logo=apache-kafka&logoColor=white" />
 	
  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" />
 	
