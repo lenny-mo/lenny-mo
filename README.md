@@ -1,4 +1,4 @@
-<img width="210" alt="image" src="https://github.com/lenny-mo/lenny-mo/assets/60809300/bc1a703d-de3f-4d1d-b2b2-d55cd262011b"><h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> The artistry of coding shall become the essence of your life!   </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> The artistry of coding shall become the essence of your life!   </h1>
 
 
 <p>Welcome to my page! </br>you can call me <b>Lenny</b>, a software development engineer, Currently interested in <b>distributed Key-Value storage</b>, <b> k8s </b>, and <b>blockchain</b>.
