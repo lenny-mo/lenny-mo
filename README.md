@@ -40,11 +40,6 @@
  <img alt="etcd" src="https://img.shields.io/badge/-etcd-419EDA?style=plastic&logo=etcd&logoColor=white" />
 	
 </p>
-
-
-
-
-
 	  
   </tbody>
 </table>
