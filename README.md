@@ -22,7 +22,7 @@
 	
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
 	
-  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=plastic&logo=solidity&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-363636?style=plastic&logo=java&logoColor=white" />
 
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
 	
