@@ -37,7 +37,7 @@
 	
   <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-569A31?style=plastic&logo=apache-kafka&logoColor=white" />
 	
- <img alt="etcd" src="https://img.shields.io/badge/-etcd-419EDA?style=plastic&logo=etcd&logoColor=white" />
+ <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" />
 	
 </p>
 	  
