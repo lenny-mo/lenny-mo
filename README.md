@@ -26,8 +26,8 @@
  
 <h3>Things I code with</h3>
 <p>
- **Storage**
-  <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=plastic&logo=apache-kafka&logoColor=white" />
+ 
+  **Storage** <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=plastic&logo=apache-kafka&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" />
   <br>
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white" />
