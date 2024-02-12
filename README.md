@@ -18,7 +18,7 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Polkadot" src="https://img.shields.io/badge/-Polkadot-E6007A?style=plastic&logo=polkadot&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=plastic&logo=go&logoColor=white" />
 	
   <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-F7931A?style=plastic&logo=bitcoin&logoColor=white" />
 	
