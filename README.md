@@ -35,7 +35,7 @@
 	
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
 	
-  <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=plastic&logo=amazon-s3&logoColor=white" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-569A31?style=plastic&logo=apache-kafka&logoColor=white" />
 	
  <img alt="etcd" src="https://img.shields.io/badge/-etcd-419EDA?style=plastic&logo=etcd&logoColor=white" />
 	
@@ -54,12 +54,9 @@
 
 
 
-
-<h3>My Links</h3>
+<!-- <h3>My Links</h3>
 <ul>
+  <li><a href="https://lenny-mo.github.io/"><b> blogs(Chinese stream) </b></a></li>
+  <li><a href="https://mirror.xyz/0x53bCC94ff2C097f09C80B648C812F722d947dA7f"><b> blogs(English stream) </b></a></li>
+</ul> -->
 
-<li><a href="https://lenny-mo.github.io/"><b> blogs(Chinese stream) </b></a></li>
-	
-<li><a href="https://mirror.xyz/0x53bCC94ff2C097f09C80B648C812F722d947dA7f"><b> blogs(English stream) </b></a></li>
-
-</ul>
