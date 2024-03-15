@@ -8,7 +8,7 @@
 
 
 
--   :hammer_and_pick: Golang / Java / JavaScript
+-   :hammer_and_pick: Golang / Python / JavaScript
 -   💻 [MacOS](https://en.wikipedia.org/wiki/MacOS) / [Ubuntu](https://ubuntu.com/) / [VSCode](https://code.visualstudio.com/) / [Lazyvim](https://www.lazyvim.org/) / [lazygit](https://github.com/jesseduffield/lazygit)
 
 ---
