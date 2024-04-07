@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> The artistry of coding shall become the essence of your life!   </h1>
 
 
-<p>Welcome to my page! </br>you can call me <b>Lenny</b>, a software development engineer; I really enjoy building software systems, and whenever I build a beautiful system, I feel very excited. Currently, I'm interested in <b>distributed Key-Value storage</b>, <b> k8s </b>, and <b>blockchain</b>.
+<p>Welcome to my page! </br>you can call me <b>Lenny</b>, a DevOps engineer; I'm familiar with Azure DevOps operations and AWS CodePipeline operations. Currently, I'm interested in <b>distributed Key-Value storage</b>, <b> Terraform </b>, and <b>Kubernetes</b>.
 
 
 
