@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> The artistry of coding shall become the essence of your life!   </h1>
 
 
-<p>Welcome to my page! </br>you can call me <b>Lenny</b>, a DevOps engineer; I'm familiar with Azure DevOps operations and AWS CodePipeline operations. Currently, I'm interested in <b>distributed Key-Value storage</b>, <b> Terraform </b>, and <b>Kubernetes</b>.
+<p>Welcome to my page! </br>you can call me <b>Lenny</b>, a DevOps engineer; I'm familiar with <b>Azure DevOps</b> and <b>AWS CodePipeline</b> operations. Currently, I'm interested in <b>distributed Key-Value storage</b>, <b> Terraform </b>, and <b>Kubernetes</b>.
 
 
 
