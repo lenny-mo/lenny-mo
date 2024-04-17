@@ -34,13 +34,11 @@
 	
   **Infrastructure as Code** 
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=plastic&logo=terraform&logoColor=white" /> 
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" />
-  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=plastic&logo=elasticsearch&logoColor=blue" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white" />
   <br>
   
   **CI/CD Tools** 
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-githubactions-2088FF?style=plastic&logo=githubactions&logoColor=white" />
   <br>
   
   **Cloud Native** 
