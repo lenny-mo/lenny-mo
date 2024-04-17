@@ -40,7 +40,7 @@
   <br>
   
   **CI/CD Tools** 
-  <img alt="" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=plastic&logo=apache-kafka&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white" />
   <br>
   
   **Cloud Native** 
