@@ -26,7 +26,9 @@
  
 <h3>Things I code with</h3>
 <p>
+	
   **Public Cloud**
+	
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=plastic&logo=azuredevops&logoColor=white" /> 
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
   <br>
