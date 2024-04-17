@@ -28,7 +28,7 @@
 <p>
 	
   **Public Cloud**
-  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=plastic&logo=azuredevops&logoColor=white" /> 
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-0078D7?style=plastic&logo=microsoftazure&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
   <br>
 	
@@ -37,6 +37,7 @@
   <br>
   
   **CI/CD Tools** 
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=plastic&logo=azuredevops&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-githubactions-2088FF?style=plastic&logo=githubactions&logoColor=white" />
   <br>
