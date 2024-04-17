@@ -29,15 +29,19 @@
   **Public Cloud**
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=plastic&logo=azuredevops&logoColor=white" /> 
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
+  <br>
+	
   **Storage** 
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" /> 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" />
   <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=plastic&logo=elasticsearch&logoColor=blue" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white" />
   <br>
+  
   **MQ** 
   <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=plastic&logo=apache-kafka&logoColor=white" />
   <br>
+  
   **Cloud Native** 
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" />
   <br>
