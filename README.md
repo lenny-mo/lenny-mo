@@ -46,6 +46,9 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
   <br>
+
+  **Orchestration**
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=plastic&logo=ansible&logoColor=white" />
 </p>
 
 
