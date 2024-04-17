@@ -32,19 +32,20 @@
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
   <br>
 	
-  **Storage** 
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" /> 
+  **Infrastructure as Code** 
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=plastic&logo=terraform&logoColor=white" /> 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" />
   <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=plastic&logo=elasticsearch&logoColor=blue" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white" />
   <br>
   
-  **MQ** 
-  <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=plastic&logo=apache-kafka&logoColor=white" />
+  **CI/CD Tools** 
+  <img alt="" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=plastic&logo=apache-kafka&logoColor=white" />
   <br>
   
   **Cloud Native** 
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
   <br>
 </p>
 
