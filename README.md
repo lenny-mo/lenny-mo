@@ -21,6 +21,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
 	
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white" />
+
+  <img alt="Bash Script" src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white" />
  </p>
 
  
