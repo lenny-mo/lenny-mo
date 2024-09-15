@@ -9,7 +9,7 @@
 
 
 -   :hammer_and_pick: Golang / Python / Bash
--   💻 [MacOS](https://en.wikipedia.org/wiki/MacOS) / [Ubuntu](https://ubuntu.com/) / [VSCode](https://code.visualstudio.com/) / [Lazyvim](https://www.lazyvim.org/) / [lazygit](https://github.com/jesseduffield/lazygit)
+-   💻 [MacOS](https://en.wikipedia.org/wiki/MacOS) / [Ubuntu](https://ubuntu.com/) / [Windows Server](https://www.microsoft.com/en-us/windows-server) / [VSCode](https://code.visualstudio.com/) / [Lazyvim](https://www.lazyvim.org/) / [lazygit](https://github.com/jesseduffield/lazygit)
 
 ---
 
