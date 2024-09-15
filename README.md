@@ -22,7 +22,7 @@
 
   <img alt="Bash Script" src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white" />
 
-  <img alt="Fish Script" src="https://img.shields.io/badge/-Fish%20SHell-34C534?style=plastic&logo=fishshell&logoColor=white" />
+  <img alt="fish shell" src="https://img.shields.io/badge/-fish%20shell-34C534?style=plastic&logo=fishshell&logoColor=white" />
   
  </p>
 
